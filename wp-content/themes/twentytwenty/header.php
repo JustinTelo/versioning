@@ -179,9 +179,6 @@
 				get_template_part( 'template-parts/modal-search' );
 			}
 			?>
-		<h2>
-			This is my custom header	
-		</h2>
 		</header><!-- #site-header -->
 
 		<?php
